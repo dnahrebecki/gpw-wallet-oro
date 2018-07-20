@@ -1,0 +1,2 @@
+bundles:
+   - { name: B2BCode\Bundle\InvestmentBundle\B2BCodeInvestmentBundle, priority: 1000 }
